@@ -1,2 +1,2 @@
-# prepcourse-henry
-este es un repositorio del modulo 2 del procourse de henry
+esta es una prueba de como crear un repositorio y clonarlo desde gibhub a mi escritorio local
+
